@@ -1,3 +1,2 @@
 # altplanet-token
-altplanet erc20 token
-ethereum smart contract solidity source.
+altplanet erc20 token (ethereum smart contract solidity source.)
